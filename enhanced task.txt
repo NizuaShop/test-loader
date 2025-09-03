@@ -1,0 +1,22 @@
+feature a ajouter :
+
+synchronisation des lobby 
+macro panel :
+ -> abando (echap puis 2x tab et entrée)
+ -> passer en pleine ecran (pas le loader mais les lobby pour que sa marche)
+
+ panel de synchronisation
+ mode par ligne (si warzone ou cdl active alors 4 ecran par ligne, si multi alors 5 ecran par ligne)
+
+ gerer la connection utilisé par chaque lobby (bitrate player)
+ reso max a 720p
+
+ ameliorer le l'agrandissement des fenetres.
+ et le refraichissemetndes webview
+
+systeme de key avec mongodb et app pour les créer
+
+plus tard :
+ systeme de vpn?
+ page autre pour le shop discord etc
+ passer les macro sur node js avec clavier
